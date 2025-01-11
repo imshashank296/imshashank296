@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Versatile software developer with over 4+ years of experience in leveraging software engineering principles and working with large datasets to deliver effective solutions through creative problem-solving. Skilled in frontend & backend development, code changes, data extraction, API development, and front-end modifications. Strong experience with R-DBMS & NoSQL, including Oracle DB, MySQL & MongoDB. Passionate about contributing to all stages of the system development lifecycle.</h2>
+<h2 align="left">Versatile software developer with over 5+ years of experience in leveraging software engineering principles and working with large datasets to deliver effective solutions through creative problem-solving. Skilled in frontend & backend development, code changes, data extraction, API development, and front-end modifications. Strong experience with R-DBMS & NoSQL, including Oracle DB, MySQL & MongoDB. Passionate about contributing to all stages of the system development lifecycle.</h2>
 
 ###
 
